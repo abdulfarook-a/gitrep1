@@ -1,6 +1,6 @@
 # OOPS - Object Oriented program
-'''    object - Every instance in python called an object 
-''' #------ Class - bule pring for similar object -------# 
+#object - Every instance in python called an object 
+#Class - bule print for similar object
 
 """
 Object two types:
@@ -15,7 +15,7 @@ class cars():
         self.speed= speed
     def _speed(self):
         print("the speed of bmw is :", self.speed)
-bmw=cars('bmw',135)
+bmw=cars('bmw',130)
 audi = cars('audi',300)
 bmw._speed()
 audi._speed()

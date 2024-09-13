@@ -1,6 +1,6 @@
 # OOPS - Object Oriented program
 #object - Every instance in python called an object 
-#Class - bule print for similar object
+#Class - blue print for similar object
 
 
 """

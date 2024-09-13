@@ -1,6 +1,6 @@
 # OOPS - Object Oriented program
-# object - Every instance in python called an object 
-# Class - bule pring for similar object 
+'''    object - Every instance in python called an object 
+''' #------ Class - bule pring for similar object -------# 
 
 """
 Object two types:

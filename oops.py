@@ -2,6 +2,7 @@
 #object - Every instance in python called an object 
 #Class - bule print for similar object
 
+
 """
 Object two types:
 1} Attributes = data discribing object -- eg., cars
